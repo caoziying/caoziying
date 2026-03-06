@@ -16,9 +16,12 @@
   <a href="https://codeforces.com/profile/Vincent_czy" target="_blank">
     <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-Vincent__czy-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://www.xiaohongshu.com/user/profile/66fb0b040000000001d0211fb" target="_blank">
+  <!-- <a href="https://www.xiaohongshu.com/user/profile/66fb0b040000000001d0211fb" target="_blank">
     <img alt="Xiaohongshu" src="https://img.shields.io/badge/小红书-日常与分享-FF2442?style=for-the-badge" />
-  </a>
+  </a> -->
+  <a href="https://www.xiaohongshu.com/user/profile/66fb0b040000000001d0211fb" target="_blank">
+  <img alt="Xiaohongshu" src="https://img.shields.io/badge/小红书-79_粉丝_|_1.2k_赞藏-FF2442?style=for-the-badge" />
+</a>
 </p>
 
 ---
