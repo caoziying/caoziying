@@ -21,9 +21,9 @@
 
 ### 🎓 教育背景
 
-- **中南大学 (985, 双一流)** | 硕士，电子信息（计算机学院） | 2024.09 - 2027.07
-- **合肥工业大学 (211, 双一流)** | 本科，计算机科学与技术 | 2020.09 - 2024.07
-  - **荣誉：** 国家奖学金 (连续两年 1.18%)、一等奖学金 (连续四年 1.21%)、华为智能基座奖学金（2.4%）、安徽省优秀毕业生（0.84%）。
+- **中南大学 (985, 双一流)** | 硕士，电子信息（计算机学院） | 2024 - 2027
+- **合肥工业大学 (211, 双一流)** | 本科，计算机科学与技术 | 2020 - 2024
+  - **荣誉：** 国家奖学金 (1.18%)、一等奖学金 (1.21%)、华为智能基座奖学金、安徽省优秀毕业生。
 
 ---
 
@@ -39,18 +39,18 @@
 ### 💼 实习与核心项目
 
 #### 🏢 爱尔眼科医院集团（数字研究所） | 算法工程师
-*2025.09 - 2026.03*
+*2025 - 2026*
 - 参与研发 **“CV+Agent”** 端到端干眼症辅助诊断系统，实现从医学影像特征提取、多模态上下文拼接到结构化诊断报告生成的全链路自动化闭环。
 - 针对睑板腺微观形态特征，设计多任务视觉模型 (ResNet+U-net)，核心分割指标 **Dice 系数达 81%**。
 - 基于 `LangGraph` 构建有向无环图 (DAG) 诊断工作流 Agent，显著降低诊断幻觉；基于 Docker 结合消息队列实现容器化部署，单张图片端到端处理延迟 **降至 812 ms**。
 
 #### 💻 RagMemorySys (多租户对话记忆 RAG 微服务)
-*2025.11 - 2026.02*
+*2025 - 2026*
 - 设计并实现对话记忆微服务，支持多用户隔离及标准化上下文拼接。构建了“基础记忆+向量记忆”双层架构，实现高效的文本分块与 Top-k 语义召回。
 - 基于 LoCoMo 数据集独立完成端到端评测 (LLM-as-a-Judge)，将系统失败率 **控制在 3.02%**，优化检索阶段平均延迟至 **262.7ms**。
 
 #### 🔬 药物靶标相互作用预测研究 (DTI/DTA/MOA/Koff)
-*2025.09 - 2026.01*
+*2025 - 2026*
 - 创新设计基于混合专家模型 (MoE) 与双向交叉注意力的深度网络架构。
 - 模型整体性能达到 **SOTA**，攻克了极具挑战的极端冷启动 (Zero-shot) 泛化难题，将分布外场景的预测均方误差 (MSE) **显著降低 35.5%**，端到端训练提速近 17 倍。
 
@@ -59,7 +59,7 @@
 ### 🏆 荣誉与竞赛
 
 #### 🥇 国家级荣誉
-- **国家奖学金** (2020-2021, 2021-2022 学年度，连续两年荣获)
+- **国家奖学金** (2020-2022 学年度，连续两年荣获)
 - 第十六届 **蓝桥杯** 大赛软件赛国赛 C++程序设计 (研究生组) - **全国二等奖**
 - 第二十一届 **“华为杯”** 中国研究生数学建模竞赛 - **全国二等奖**
 - 第十三届 **全国大学生数学竞赛** (非数学类) - **全国二等奖**
@@ -78,18 +78,29 @@
 
 ---
 
-### 📊 算法竞技态势
+### 📊 算法与开源态势
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caoziying&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caoziying&theme=transparent&hide_border=true" width="48%" />
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://leetcode.cn/u/yuan-fang-nai/">
-    <img src="https://leetcard.jacoblin.cool/yuan-fang-nai?site=cn&theme=light&font=Noto%20Sans%20SC&ext=activity" alt="LeetCode Stats" width="80%"/>
+    <img src="https://leetcard.jacoblin.cool/yuan-fang-nai?site=cn&theme=light&font=Noto%20Sans%20SC&ext=heatmap" alt="LeetCode Stats & Heatmap" width="80%"/>
   </a>
 </div>
 
-<br>
+<br/>
 
 <div align="center">
   <a href="https://codeforces.com/profile/Vincent_czy">
-    <img src="https://img.shields.io/badge/Dynamic/JSON?color=1F8ACB&label=Codeforces%20Rating&query=%24.result%5B0%5D.rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DVincent_czy&style=for-the-badge&logo=codeforces" alt="Codeforces Rating" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DVincent_czy&query=%24.result%5B0%5D.rating&label=Codeforces%20Rating&color=1F8ACB&style=for-the-badge&logo=codeforces" alt="Codeforces Rating" />
   </a>
 </div>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/caoziying/count.svg" alt="Profile Views" />
+</p>
