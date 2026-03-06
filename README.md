@@ -81,23 +81,23 @@
 ### 📊 算法与开源态势
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caoziying&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caoziying&theme=transparent&hide_border=true" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://leetcode.cn/u/yuan-fang-nai/">
-    <img src="https://leetcard.jacoblin.cool/yuan-fang-nai?site=cn&theme=light&font=Noto%20Sans%20SC&ext=heatmap" alt="LeetCode Stats & Heatmap" width="80%"/>
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=caoziying&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&v=1" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caoziying&theme=transparent&hide_border=true&v=1" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://codeforces.com/profile/Vincent_czy">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DVincent_czy&query=%24.result%5B0%5D.rating&label=Codeforces%20Rating&color=1F8ACB&style=for-the-badge&logo=codeforces" alt="Codeforces Rating" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vincent_czy&theme=transparent&disable_animations=false&show_icons=true&hide_border=true" alt="Codeforces Stats" width="80%" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://leetcode.cn/u/yuan-fang-nai/">
+    <img src="https://leetcard.jacoblin.cool/yuan-fang-nai?site=cn&theme=light&font=Noto%20Sans%20SC&ext=contest" alt="LeetCode Contest Stats" width="80%"/>
   </a>
 </div>
 
