@@ -3,6 +3,10 @@
 <h3 align="center">算法工程师 | AI/RAG 开发者 | 算法爱好者</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=caoziying&label=Profile%20Views&color=1F8ACB&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="https://blog.csdn.net/qq_51659538" target="_blank">
     <img alt="CSDN Blog" src="https://img.shields.io/badge/CSDN-技术博客-FC5531?style=for-the-badge&logo=csdn&logoColor=white" />
   </a>
@@ -100,8 +104,3 @@
     <img src="https://leetcard.jacoblin.cool/yuan-fang-nai?site=cn&theme=light&font=Noto%20Sans%20SC&ext=heatmap" alt="LeetCode Stats & Heatmap" width="80%"/>
   </a>
 </div>
-
-<br/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=caoziying&label=Profile%20Views&color=1F8ACB&style=flat-square" alt="Profile Views" />
-</p>
