@@ -1,6 +1,6 @@
-<h1 align="center">你好，我是 Caoziying 👋</h1>
+<h1 align="center">你好，我是 曹子颖 👋</h1>
 
-<h3 align="center">算法工程师 | AI/RAG 开发者 | 算法竞赛选手</h3>
+<h3 align="center">算法工程师 | AI/RAG 开发者 | 算法竞赛爱好者</h3>
 
 <p align="center">
   <a href="https://blog.csdn.net/qq_51659538" target="_blank">
@@ -23,7 +23,7 @@
 
 - **中南大学 (985, 双一流)** | 硕士，电子信息（计算机学院） | 2024.09 - 2027.07
 - **合肥工业大学 (211, 双一流)** | 本科，计算机科学与技术 | 2020.09 - 2024.07
-  - **荣誉：** 国家奖学金 (1.18%)、一等奖学金 (1.21%)、华为智能基座奖学金、安徽省优秀毕业生。
+  - **荣誉：** 国家奖学金 (连续两年 1.18%)、一等奖学金 (连续四年 1.21%)、华为智能基座奖学金（2.4%）、安徽省优秀毕业生（0.84%）。
 
 ---
 
@@ -78,19 +78,18 @@
 
 ---
 
-### 📊 GitHub 开源统计
+### 📊 算法竞技态势
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caoziying&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caoziying&theme=transparent&hide_border=true" width="48%" />
+  <a href="https://leetcode.cn/u/yuan-fang-nai/">
+    <img src="https://leetcard.jacoblin.cool/yuan-fang-nai?theme=light&font=Noto%20Sans%20SC&ext=activity" alt="LeetCode Stats" width="80%"/>
+  </a>
 </div>
 
-<br/>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caoziying&layout=compact&theme=transparent&hide_border=true" width="50%" />
+  <a href="https://codeforces.com/profile/Vincent_czy">
+    <img src="https://img.shields.io/badge/Dynamic/JSON?color=1F8ACB&label=Codeforces%20Rating&query=%24.result%5B0%5D.rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DVincent_czy&style=for-the-badge&logo=codeforces" alt="Codeforces Rating" />
+  </a>
 </div>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/caoziying/count.svg" alt="Profile Views" />
-</p>
