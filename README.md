@@ -1,6 +1,6 @@
 <h1 align="center">你好，我是 曹子颖 👋</h1>
 
-<h3 align="center">算法工程师 | AI/RAG 开发者 | 算法竞赛爱好者</h3>
+<h3 align="center">算法工程师 | AI/RAG 开发者 | 算法爱好者</h3>
 
 <p align="center">
   <a href="https://blog.csdn.net/qq_51659538" target="_blank">
@@ -81,7 +81,7 @@
 ### 📊 算法与开源态势
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caoziying&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=caoziying&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=caoziying&theme=transparent&hide_border=true" width="48%" />
 </div>
 
@@ -102,5 +102,5 @@
 </div>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/caoziying/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=caoziying&label=Profile%20Views&color=1F8ACB&style=flat-square" alt="Profile Views" />
 </p>
