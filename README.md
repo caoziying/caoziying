@@ -97,10 +97,11 @@
 
 <div align="center">
   <a href="https://leetcode.cn/u/yuan-fang-nai/">
-    <img src="https://leetcard.jacoblin.cool/yuan-fang-nai?site=cn&theme=light&font=Noto%20Sans%20SC&ext=contest" alt="LeetCode Contest Stats" width="80%"/>
+    <img src="https://leetcard.jacoblin.cool/yuan-fang-nai?site=cn&theme=light&font=Noto%20Sans%20SC&ext=heatmap" alt="LeetCode Stats & Heatmap" width="80%"/>
   </a>
 </div>
 
+<br/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=caoziying&label=Profile%20Views&color=1F8ACB&style=flat-square" alt="Profile Views" />
 </p>
