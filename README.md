@@ -38,7 +38,7 @@
 
 - **编程语言:** 熟练掌握 `C/C++`、`Python`、`Java`，具备扎实的编程基础与算法能力。
 - **AI 与大模型应用:** `PyTorch`, `LangGraph`, `RAG` (LightRAG/Milvus), LLM Agent 架构。
-- **后端与云原生:** `FastAPI`, `Docker`, `Docker Compose`, 消息队列中间件。
+- **后端与云原生:** `FastAPI`, `Docker`, `Docker Compose`, `Spring`, `Spring Boot`, `Redis`, 消息队列中间件等。
 - **研发协作:** `Git/GitHub` 团队协作开发。
 
 ---
