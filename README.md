@@ -82,7 +82,7 @@
 
 <div align="center">
   <a href="https://leetcode.cn/u/yuan-fang-nai/">
-    <img src="https://leetcard.jacoblin.cool/yuan-fang-nai?theme=light&font=Noto%20Sans%20SC&ext=activity" alt="LeetCode Stats" width="80%"/>
+    <img src="https://leetcard.jacoblin.cool/yuan-fang-nai?site=cn&theme=light&font=Noto%20Sans%20SC&ext=activity" alt="LeetCode Stats" width="80%"/>
   </a>
 </div>
 
