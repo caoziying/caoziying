@@ -114,6 +114,6 @@
 
 <div align="center">
   <a href="https://codeforces.com/profile/Vincent_czy" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vincent_czy&theme=transparent&disable_animations=false&show_icons=true&hide_border=true" alt="Codeforces Stats" width="80" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vincent_czy&theme=transparent&disable_animations=false&show_icons=true&hide_border=true" alt="Codeforces Stats" width="80%" />
   </a>
 </div>
