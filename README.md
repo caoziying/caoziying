@@ -103,9 +103,9 @@
 </div>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/yuan-fang-nai?site=cn&theme=light&font=Noto%20Sans%20SC&ext=heatmap" alt="LeetCode Global Heatmap" width="65%"/>
+  <img src="https://leetcard.jacoblin.cool/yuan-fang-nai?site=cn&theme=light&font=Noto%20Sans%20SC&ext=heatmap" alt="LeetCode Global Heatmap" width="80%"/>
   <br/>
-  <img src="./assets/lc.png" alt="LeetCode Extra" width="65%">
+  <img src="./assets/lc.png" alt="LeetCode Extra" width="80%">
 </div>
 
 <br/>
@@ -114,6 +114,6 @@
 
 <div align="center">
   <a href="https://codeforces.com/profile/Vincent_czy" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vincent_czy&theme=transparent&disable_animations=false&show_icons=true&hide_border=true" alt="Codeforces Stats" width="60%" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vincent_czy&theme=transparent&disable_animations=false&show_icons=true&hide_border=true" alt="Codeforces Stats" width="80" />
   </a>
 </div>
