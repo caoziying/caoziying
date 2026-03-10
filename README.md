@@ -105,5 +105,6 @@
 <div align="center">
   <a href="https://leetcode.cn/u/yuan-fang-nai/">
     <img src="https://leetcard.jacoblin.cool/yuan-fang-nai?site=cn&theme=light&font=Noto%20Sans%20SC&ext=heatmap" alt="LeetCode Stats & Heatmap" width="80%"/>
+    <img src="./assets/lc.png" width="90%">
   </a>
 </div>
