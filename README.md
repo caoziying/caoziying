@@ -83,7 +83,6 @@
 - **综合表彰：** 本科期间连续三年荣获校级 **一等奖学金**、**优秀三好学生** / **三好学生** 及 **优秀共青团员** 称号。
 
 ---
-
 ### 📊 算法与开源态势
 
 <div align="center">
@@ -94,7 +93,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://codeforces.com/profile/Vincent_czy">
+  <a href="https://codeforces.com/profile/Vincent_czy" target="_blank">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vincent_czy&theme=transparent&disable_animations=false&show_icons=true&hide_border=true" alt="Codeforces Stats" width="80%" />
   </a>
 </div>
@@ -102,8 +101,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://leetcode.cn/u/yuan-fang-nai/">
-    <img src="https://leetcard.jacoblin.cool/yuan-fang-nai?site=cn&theme=light&font=Noto%20Sans%20SC&ext=heatmap" alt="LeetCode Stats & Heatmap" width="80%"/>
-    <img src="./assets/lc.png" width="90%">
+  <a href="https://leetcode.cn/u/yuan-fang-nai/" target="_blank">
+    <img src="./assets/lc.png" alt="LeetCode CN Rank & Heatmap" width="90%">
   </a>
 </div>
