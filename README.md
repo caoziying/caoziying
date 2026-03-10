@@ -1,6 +1,6 @@
 <h1 align="center">你好，我是 曹子颖 👋</h1>
 
-<h3 align="center">算法工程师 | AI/RAG 开发者 | 算法爱好者</h3>
+<h3 align="center">算法工程师 | AI/RAG 开发者 | 算法竞赛爱好者</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=caoziying&label=Profile%20Views&color=1F8ACB&style=flat-square" alt="Profile Views" />
