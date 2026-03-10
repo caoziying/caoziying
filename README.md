@@ -98,7 +98,7 @@
   <a href="https://leetcode.cn/u/yuan-fang-nai/" target="_blank">
     <img alt="LeetCode Rank" src="https://img.shields.io/badge/LeetCode_Rating-2500-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" width="300" />
     &nbsp;
-    <img alt="LeetCode CN" src="https://img.shields.io/badge/LeetCode_全站排名-Top_0.73%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" width="330" />
+    <img alt="LeetCode CN" src="https://img.shields.io/badge/LeetCode_全站排名-Top_0.73%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" width="350" />
   </a>
 </div>
 
