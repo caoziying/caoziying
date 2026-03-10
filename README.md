@@ -93,15 +93,19 @@
 <br/>
 
 <div align="center">
-  <a href="https://codeforces.com/profile/Vincent_czy" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vincent_czy&theme=transparent&disable_animations=false&show_icons=true&hide_border=true" alt="Codeforces Stats" width="80%" />
+  <a href="https://codeforces.com/profile/Vincent_czy">
+    <img src="https://codeforces-readme-stats.vercel.app/api/graph?username=Vincent_czy&theme=transparent&disable_animations=false&hide_border=true" alt="Codeforces Rating Graph" width="80%" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://leetcode.cn/u/yuan-fang-nai/" target="_blank">
-    <img src="./assets/lc.png" alt="LeetCode CN Rank & Heatmap" width="90%">
+  <a href="https://leetcode.cn/u/yuan-fang-nai/">
+    <img src="https://leetcard.jacoblin.cool/yuan-fang-nai?site=cn&theme=light&font=Noto%20Sans%20SC" alt="LeetCode CN Stats" width="80%"/>
+    <br/>
+    <img src="https://leetcard.jacoblin.cool/yuan-fang-nai?site=cn&theme=light&font=Noto%20Sans%20SC&ext=heatmap" alt="LeetCode Global Heatmap" width="80%"/>
+    <br/>
+    <img src="./assets/lc.png" alt="LeetCode Extra" width="90%">
   </a>
 </div>
