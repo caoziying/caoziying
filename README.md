@@ -101,11 +101,15 @@
 <br/>
 
 <div align="center">
-  <a href="https://leetcode.cn/u/yuan-fang-nai/">
-    <img src="https://leetcard.jacoblin.cool/yuan-fang-nai?site=cn&theme=light&font=Noto%20Sans%20SC" alt="LeetCode CN Stats" width="80%"/>
-    <br/>
-    <img src="https://leetcard.jacoblin.cool/yuan-fang-nai?site=cn&theme=light&font=Noto%20Sans%20SC&ext=heatmap" alt="LeetCode Global Heatmap" width="80%"/>
-    <br/>
-    <img src="./assets/lc.png" alt="LeetCode Extra" width="90%">
+
+  <img src="https://leetcard.jacoblin.cool/yuan-fang-nai?site=cn&theme=light&font=Noto%20Sans%20SC&ext=heatmap" alt="LeetCode Global Heatmap" width="80%"/>
+
+    
   </a>
+
+  <a href="https://leetcode.cn/u/yuan-fang-nai/" target="_blank">
+  <img alt="LeetCode Rank" src="https://img.shields.io/badge/LeetCode_Rating-2500-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img alt="LeetCode CN" src="https://img.shields.io/badge/LeetCode_全站排名-Top_0.73%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<img src="./assets/lc.png" alt="LeetCode Extra" width="90%">
 </div>
