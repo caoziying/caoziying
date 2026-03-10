@@ -87,7 +87,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=caoziying&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&v=1" width="60%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caoziying&theme=transparent&hide_border=true&v=1" width="60" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caoziying&theme=transparent&hide_border=true&v=1" width="60%" />
 </div>
 
 <br/>
